@@ -2,6 +2,8 @@
 
 > **Monitor** — Linux eBPF visibility and enforcement for agent syscalls and tool calls.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentkernel/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentkernel)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
